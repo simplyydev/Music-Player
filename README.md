@@ -23,13 +23,16 @@ Youtube - https://www.youtube.com/watch?v=pKsvDf-sJQE
 
 Issue 2 - You want to add your own songs
 
-If you wanna do that then simply download your music and paste it in the mp3 folder
-Next, get the youtube link and paste it in scripts.js under scripts folder 
+If you wanna do that then simply download your music and paste it in the mp3 folder.
+
+Next, get the youtube link and paste it in scripts.js under scripts folder .
+
 Do the same with any song you wanna add.
 
 # For Collaboration or Modifications
 
 If you wanna contribute to the project or you want to Customize then feel free to use this repository. 
+
 For further projects contact me on devendranath2004@gmail.com
 
 # Donations
