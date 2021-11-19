@@ -11,7 +11,7 @@ new Vue({
             tracks: [{
                     name: "Bella Ciao",
                     artist: "La Casa Da Papel",
-                    cover: "https://github.com/Devendra20/Mini-Music-Player/blob/main/img/1.jpg",
+                    cover: "https://github.com/Devendra20/Mini-Music-Player/blob/main/img/1.jpg?raw=true",
                     source: "https://github.com/Devendra20/Mini-Music-Player/blob/main/mp3/1.mp3?raw=true",
                     url: "https://www.youtube.com/watch?v=0aUav1lx3rA",
                     favorited: false
@@ -19,7 +19,7 @@ new Vue({
                 {
                     name: "Rockstar Remix",
                     artist: "Ilkay Sencan",
-                    cover: "https://github.com/Devendra20/Mini-Music-Player/blob/main/img/2.jpg",
+                    cover: "https://github.com/Devendra20/Mini-Music-Player/blob/main/img/2.jpg?raw=true",
                     source: "https://github.com/Devendra20/Mini-Music-Player/blob/main/mp3/2.mp3?raw=true",
                     url: "https://www.youtube.com/watch?v=lxM8E3Sq3-I",
                     favorited: true
@@ -27,7 +27,7 @@ new Vue({
                 {
                     name: "Blah Blah Blah",
                     artist: "Armin van Buuren",
-                    cover: "https://github.com/Devendra20/Mini-Music-Player/blob/main/img/3.jpg",
+                    cover: "https://github.com/Devendra20/Mini-Music-Player/blob/main/img/3.jpg?raw=true",
                     source: "https://github.com/Devendra20/Mini-Music-Player/blob/main/mp3/3.mp3?raw=true",
                     url: "https://www.youtube.com/watch?v=mfJhMfOPWdE",
                     favorited: false
@@ -35,7 +35,7 @@ new Vue({
                 {
                     name: "Savage",
                     artist: "Timmy Trumpet",
-                    cover: "https://github.com/Devendra20/Mini-Music-Player/blob/main/img/4.jpg",
+                    cover: "https://github.com/Devendra20/Mini-Music-Player/blob/main/img/4.jpg?raw=true",
                     source: "https://github.com/Devendra20/Mini-Music-Player/blob/main/mp3/4.mp3?raw=true",
                     url: "https://www.youtube.com/watch?v=ofmzX1nI7SE&list=RDGMEMYH9CUrFO7CfLJpaD7UR85w&index=23",
                     favorited: false
@@ -43,7 +43,7 @@ new Vue({
                 {
                     name: "Turn Up The Speakers",
                     artist: "Martin Garrix",
-                    cover: "https://github.com/Devendra20/Mini-Music-Player/blob/main/img/5.jpg",
+                    cover: "https://github.com/Devendra20/Mini-Music-Player/blob/main/img/5.jpg?raw=true",
                     source: "https://github.com/Devendra20/Mini-Music-Player/blob/main/mp3/5.mp3?raw=true",
                     url: "https://www.youtube.com/watch?v=0WlpALnQdN8",
                     favorited: true
@@ -51,7 +51,7 @@ new Vue({
                 {
                     name: "Toca Toca",
                     artist: "Fly Project",
-                    cover: "https://github.com/Devendra20/Mini-Music-Player/blob/main/img/6.jpg",
+                    cover: "https://github.com/Devendra20/Mini-Music-Player/blob/main/img/6.jpg?raw=true",
                     source: "https://github.com/Devendra20/Mini-Music-Player/blob/main/mp3/6.mp3?raw=true",
                     url: "https://www.youtube.com/watch?v=rK5Dx4geLgs&list=RDGMEMYH9CUrFO7CfLJpaD7UR85w&index=28",
                     favorited: false
@@ -59,7 +59,7 @@ new Vue({
                 {
                     name: "Movements",
                     artist: "Pham",
-                    cover: "https://github.com/Devendra20/Mini-Music-Player/blob/main/img/7.jpg",
+                    cover: "https://github.com/Devendra20/Mini-Music-Player/blob/main/img/7.jpg?raw=true",
                     source: "https://github.com/Devendra20/Mini-Music-Player/blob/main/mp3/7.mp3?raw=true",
                     url: "https://www.youtube.com/watch?v=EHzhiPOeEhY&list=RDGMEMYH9CUrFO7CfLJpaD7UR85w&index=30",
                     favorited: true
@@ -67,7 +67,7 @@ new Vue({
                 {
                     name: "She Make It Clap",
                     artist: "Admin Ross",
-                    cover: "https://github.com/Devendra20/Mini-Music-Player/blob/main/img/8.jpg",
+                    cover: "https://github.com/Devendra20/Mini-Music-Player/blob/main/img/8.jpg?raw=true",
                     source: "https://github.com/Devendra20/Mini-Music-Player/blob/main/mp3/8.mp3?raw=true",
                     url: "https://www.youtube.com/watch?v=tR40FCTD_NQ",
                     favorited: false
@@ -75,7 +75,7 @@ new Vue({
                 {
                     name: "Nightmare",
                     artist: "2 Scratch",
-                    cover: "https://github.com/Devendra20/Mini-Music-Player/blob/main/img/9.jpg",
+                    cover: "https://github.com/Devendra20/Mini-Music-Player/blob/main/img/9.jpg?raw=true",
                     source: "https://github.com/Devendra20/Mini-Music-Player/blob/main/mp3/9.mp3?raw=true",
                     url: "https://www.youtube.com/watch?v=0ZYgo-fZUg0&list=RDGMEMHDXYb1_DDSgDsobPsOFxpA&index=5",
                     favorited: false
