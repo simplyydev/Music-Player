@@ -1,2 +1,2 @@
-# Mini Music Player
- A basic CSS Mini Player
+# Music Player
+ A basic CSS Music Player
