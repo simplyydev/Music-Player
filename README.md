@@ -4,11 +4,16 @@
 
 # How To Use
 
-Step 1 - Open any code editors preferably Visual Studio Code
-Step 2 - Clone the repository or Download and open it in Visual Studio Code
-Step 3 - Open index.html
-Step 4 - Righ click anywhere in index.html and click "Open with Live Server"
+Step 1 - Open any code editors preferably Visual Studio Code.
+
+Step 2 - Clone the repository or Download and open it in Visual Studio Code.
+
+Step 3 - Open index.html.
+
+Step 4 - Righ click anywhere in index.html and click "Open with Live Server".
+
 Step 5 - Enjoy!
+
 
 # Possible Issues
 
